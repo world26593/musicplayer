@@ -1,5 +1,5 @@
 streamlit
 yt-dlp
-spotipy
+
 scikit-learn
-pandas
+
